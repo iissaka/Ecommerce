@@ -1,0 +1,6 @@
+
+{
+  "name": "Elegance VTO - Virtual Try-On SaaS",
+  "description": "A high-end virtual try-on application for e-commerce, using generative AI to visualize clothing on any silhouette with realistic textures and shadows.",
+  "requestFramePermissions": ["camera"]
+}
